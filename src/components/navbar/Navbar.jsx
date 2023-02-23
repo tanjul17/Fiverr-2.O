@@ -42,7 +42,7 @@ const Navbar = () => {
           {currentUser && (
             <div className="user" onClick={() => setOpen(!open)}>
               <img
-                src="https://previews.123rf.com/images/kchung/kchung1611/kchung161100977/65777187-3d-rendering-cute-yellow-letter-t-isolated-white-background-toylike-alphabet-for-design-yellow.jpg"
+                src="https://st2.depositphotos.com/3867453/7680/v/950/depositphotos_76806393-stock-illustration-letter-t-logo-icon-design.jpg"
                 alt=""
               />
               <span>{currentUser?.username}</span>
